@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ifood-react",
+    "slug": "ifood-react",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ifood-react"
+}
